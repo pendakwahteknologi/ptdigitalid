@@ -38,13 +38,13 @@ Welcome to the **PTDigital ID** project! This repository demonstrates a Single S
 ## Running the Project
 
 ### Start the Identity Provider Server
-    'python3 idp_server.py'
+    python3 idp_server.py
 
 ### Start the Service
-    'python3 service.py'
+    python3 service.py
 
 ### Run the Client
-    'python3 client.py'
+    python3 client.py
 
 ## Registration
 
